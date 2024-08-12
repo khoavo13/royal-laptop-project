@@ -52,7 +52,7 @@ export default function ProductDetail() {
   }, []);
 
   return (
-    <Container maxWidth="lg" sx={{ margin: "100px auto 50px" }}>
+    <Container maxWidth="lg" sx={{ margin: "100px auto 50px", minHeight: "100vh" }}>
       <Grid container spacing={2} sx={{ marginTop: 4 }}>
         <Grid item xs={12} md={5}>
           <ImageContainer>
