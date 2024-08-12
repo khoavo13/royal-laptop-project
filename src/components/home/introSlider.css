@@ -1,0 +1,23 @@
+.intro .swiper-slide-custom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.intro .swiper-slide-custom img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.intro .swiper-button-next,
+.intro .swiper-button-prev {
+  color: #ff5722; 
+  font-size: 20px !important; 
+}
+
+.intro .swiper-button-next::after,
+.intro .swiper-button-prev::after {
+  font-size: 25px !important;
+}

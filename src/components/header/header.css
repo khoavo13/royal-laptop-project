@@ -1,0 +1,12 @@
+.logo-img{
+    display: block;
+    width: 100px;
+    height: 30px;
+}
+.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+    background-color: var(--black) !important;
+}
+
+.css-1nvnyqx-MuiPaper-root-MuiDrawer-paper{
+    top: 10% !important;
+}

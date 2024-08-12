@@ -1,0 +1,39 @@
+.footer {
+  background-color: #f1f1f1;
+  padding: 20px 0;
+}
+
+.list-unstyled {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-unstyled a {
+  text-decoration: none; /* Remove underline */
+  color: black; /* Change text color to black */
+}
+
+.list-unstyled a:hover {
+  color: #d35400; /* Change text color to orange on hover */
+}
+
+.payment-images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  align-items: center;
+}
+
+.payment-images img {
+  max-width: 50px; 
+  flex: 1;
+  margin: 5px;
+}
+
+.payment-images img:first-child {
+  margin-left: 0;
+}
+
+.payment-images img:last-child {
+  margin-right: 0;
+}

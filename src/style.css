@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+   
+:root{
+    --orange: #EB7043;
+    --red: #FF4954;
+    --black: rgb(33, 37, 41)
+}
