@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/royal-laptop-project/static/css/main.de1ccb44.css",
-    "main.js": "/royal-laptop-project/static/js/main.d7d98a25.js",
+    "main.js": "/royal-laptop-project/static/js/main.c996e71b.js",
     "static/media/laptop_gaming.png": "/royal-laptop-project/static/media/laptop_gaming.67ca3674a4bc8c7621ad.png",
     "static/media/intro-5.png": "/royal-laptop-project/static/media/intro-5.eae72ea4105e7b52b52b.png",
     "static/media/discount-3.png": "/royal-laptop-project/static/media/discount-3.bfb0625f0094fae40d01.png",
@@ -44,10 +44,10 @@
     "static/media/asus-logo.png": "/royal-laptop-project/static/media/asus-logo.5e5aadb95e6b44f65b41.png",
     "index.html": "/royal-laptop-project/index.html",
     "main.de1ccb44.css.map": "/royal-laptop-project/static/css/main.de1ccb44.css.map",
-    "main.d7d98a25.js.map": "/royal-laptop-project/static/js/main.d7d98a25.js.map"
+    "main.c996e71b.js.map": "/royal-laptop-project/static/js/main.c996e71b.js.map"
   },
   "entrypoints": [
     "static/css/main.de1ccb44.css",
-    "static/js/main.d7d98a25.js"
+    "static/js/main.c996e71b.js"
   ]
 }
